@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/tinted_crop",
+  "textures": {
+    "crop": "minecraft:block/tall_grass_bottom"
+  }
+}
